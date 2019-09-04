@@ -25,7 +25,7 @@ class _MainPageState extends State<MainPage> {
             MediaQuery.of(context).orientation == Orientation.portrait ? 2 : 3,
         primary: true,
         children: <Widget>[
-
+          // TODO: create image list
         ],
       ),
     );
